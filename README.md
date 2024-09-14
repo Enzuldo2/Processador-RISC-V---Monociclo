@@ -1,5 +1,7 @@
 # Processador-RISC-V---Monociclo
-Implementação em Verilog de um processador monociclo, Da matéria Arquiteturas de Computadores 1
+- Implementação em Verilog de um processador monociclo, Da matéria Arquiteturas de Computadores 1.
+- Implementação foi utilizando o Ambiente de desenvolvimento Quartus.
+- Parte Teórica esta na pasta Teoria do Git.
 
 ### Código Não implementado
 - Parte do código foi dado pelo professor e nós tivemos apenas que fazer pequenas alterações.
